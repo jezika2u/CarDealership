@@ -1,0 +1,38 @@
+body {
+  backgroud-color: #fgfgfg;
+  margin: 15px;
+}
+
+.formControl{
+	margin: 40px;
+}
+
+.welcome-form{
+	text-align: center;
+}
+.detail-table{
+	 border: 1px solid black;
+	 object-align: center;
+}
+.table-control1{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.box{
+margin:0 auto; 
+width:600px;
+padding:20px;
+background:#f9f9f9;
+border:2px solid #333;
+}
+.hide{
+	display:none;
+}
+.box2{
+	margin:0 auto; 
+	width:900px;
+	padding:20px;
+	background:#f9f9f9;
+	border:2px solid #333;
+}
